@@ -1,0 +1,5 @@
+.project
+./bin
+./test
+./target
+log.txt
